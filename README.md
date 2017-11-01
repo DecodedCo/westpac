@@ -1,11 +1,11 @@
-# ibm-cbd
+# Westpac Advanced Analytics
 
-Notebooks for IBM CbD Data experience
+Notebooks for Westpac Advanced Analytics experience
 
-## intro-to-python.ipynb
+## westpac-template.ipynb
 
-Introduction to Python. Start here!
+Template to fill out
 
-## stock-prices.ipynb
+## completed.ipynb
 
-Jupyter notebook for pulling stock data for D3
+Jupyter notebook of the completed code
